@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+requests
+folium
+streamlit-folium
+plotly
+scikit-learn
+nltk
+spacy
+textblob
+beautifulsoup4
+yfinance
+pytz
+python-dotenv
+google-generativeai
+pydeck
